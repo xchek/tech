@@ -9,3 +9,6 @@
   * [all awesome-lists](https://github.com/topics/awesome-list)
   * https://github.com/shirosaidev/diskover
   * [Snort](https://snort.org/)
+
+### Programming
+  * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
