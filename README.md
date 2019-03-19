@@ -18,6 +18,7 @@
   * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
   * [Python](https://docs.python.org/3.6/library/index.html)
     * [pydash](https://github.com/dgilland/pydash)
+    * [Pycharm](https://www.jetbrains.com/pycharm/download/)
 
 ### Data Management/Manipulation/Visualization
   * [diskover](https://github.com/shirosaidev/diskover)
