@@ -1,6 +1,14 @@
 ### Cheatsheets
   * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+### Browser Anti-Tracking
+  * [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+  * [Privacy Badger](https://www.eff.org/privacybadger)
+  * Random User-Agent
+    * [Chrome](https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp)
+    * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/random_user_agent/)
+  * [Test your browser](https://panopticlick.eff.org/)
+
 ### Security
   * [kismet](https://github.com/kismetwireless/kismet)
   * [aircrack-ng](https://www.aircrack-ng.org/doku.php?id=newbie_guide)
