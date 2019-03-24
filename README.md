@@ -1,5 +1,7 @@
-### Cheatsheets
+### Cheat-sheets
   * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  * [tmux](https://man.openbsd.org/OpenBSD-current/man1/tmux.1) - terminal multiplexer man page
+  * [vim](https://vim.rtorr.com/) - Vim cheat sheet
 
 ### Browser Anti-Tracking
   * [HTTPS Everywhere](https://www.eff.org/https-everywhere)
@@ -18,7 +20,7 @@
   * [`nmap`](https://github.com/nmap/nmap)
   * [`john` (JohnTheRipper)](https://github.com/magnumripper/JohnTheRipper)
 
-### Programming
+### Programming Libraries/Application management
   * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
   * [`pyenv`](https://github.com/pyenv/pyenv) - python version management ([pyenv-installer](https://github.com/pyenv/pyenv-installer))
   * [`pipenv`](https://pipenv.readthedocs.io/en/latest/) - python package/version management
@@ -26,22 +28,21 @@
     * [pydash](https://github.com/dgilland/pydash) - Python utility libraries 
     * [Pycharm](https://www.jetbrains.com/pycharm/download/) - professional Python IDE
     * [django](https://github.com/django/django) - web framework
+    * [pandas](https://github.com/pandas-dev/pandas)
+    * [numpy](https://github.com/numpy/numpy)
     * [textract](https://github.com/deanmalmgren/textract) - get text from files
     * [selenium](https://github.com/SeleniumHQ/Selenium) - browser automation
     * [pyppeteer](https://github.com/miyakogi/pyppeteer) - browser automation
     * [collections](https://docs.python.org/3.6/library/collections.html)
     * [typing](https://docs.python.org/3/library/typing.html)
-    * [typing.NamedTuple](https://docs.python.org/3/library/typing.html#typing.NamedTuple) - cool declaration
-    * [pandas](https://github.com/pandas-dev/pandas)
-    
+    * [typing.NamedTuple](https://docs.python.org/3/library/typing.html#typing.NamedTuple) - cool declaration    
 
 ### Data Management/Manipulation/Visualization
   * [diskover](https://github.com/shirosaidev/diskover)
   * [Elasticsearch](https://github.com/elastic/elasticsearch)
 
 ### Telemetry
-  * [RTL-SDR](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/) - quick setup guide
-  
+  * [RTL-SDR](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/) - quick setup guide  
 
 ### Drones
   * [betaflight](https://github.com/betaflight/betaflight)
