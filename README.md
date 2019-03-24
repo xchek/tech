@@ -9,10 +9,11 @@
     * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/random_user_agent/)
   * [Test your browser](https://panopticlick.eff.org/)
 
-### Security
+### Security/Pentesting
   * [kismet](https://github.com/kismetwireless/kismet)
   * [aircrack-ng](https://www.aircrack-ng.org/doku.php?id=newbie_guide)
   * [driftnet](https://github.com/deiv/driftnet)
+  * [Snort](https://snort.org/)
 
 ### Programming
   * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
@@ -27,6 +28,5 @@
 ### Misc.
   * [curated awesome-lists](https://github.com/sindresorhus/awesome)  
   * [all awesome-lists](https://github.com/topics/awesome-list)
-  * [Snort](https://snort.org/)
   * [*all of the sensorz!*](https://en.wikipedia.org/wiki/List_of_sensors)
   * [arrr](https://github.com/Igglybuff/awesome-piracy)
