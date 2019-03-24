@@ -20,6 +20,8 @@
 
 ### Programming
   * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
+  * [`pyenv`](https://github.com/pyenv/pyenv) - python version management ([pyenv-installer](https://github.com/pyenv/pyenv-installer))
+  * [`pipenv`](https://pipenv.readthedocs.io/en/latest/) - python package/version management
   * [Python](https://docs.python.org/3.6/library/index.html)
     * [pydash](https://github.com/dgilland/pydash) - Python utility libraries 
     * [Pycharm](https://www.jetbrains.com/pycharm/download/) - professional Python IDE
@@ -28,13 +30,24 @@
     * [selenium](https://github.com/SeleniumHQ/Selenium) - browser automation
     * [pyppeteer](https://github.com/miyakogi/pyppeteer) - browser automation
     * [collections](https://docs.python.org/3.6/library/collections.html)
-    * [`typing`](https://docs.python.org/3/library/typing.html)
-    * [`typing.NamedTuple`](https://docs.python.org/3/library/typing.html#typing.NamedTuple) - cool declaration
+    * [typing](https://docs.python.org/3/library/typing.html)
+    * [typing.NamedTuple](https://docs.python.org/3/library/typing.html#typing.NamedTuple) - cool declaration
+    * [pandas](https://github.com/pandas-dev/pandas)
     
 
 ### Data Management/Manipulation/Visualization
   * [diskover](https://github.com/shirosaidev/diskover)
   * [Elasticsearch](https://github.com/elastic/elasticsearch)
+
+### Telemetry
+  * [RTL-SDR](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/) - quick setup guide
+  
+
+### Drones
+  * [betaflight](https://github.com/betaflight/betaflight)
+  * [OpenTX](https://www.open-tx.org/) - Transmitter firmware
+  * [VelociDrone](https://www.velocidrone.com/) - racing/flight simulator
+  * [BeeBrain lite](https://newbeedrone.com/products/beebrain-lite-flight-controller-set-frsky) - product page w/ firmware versions
   
 ### Misc.
   * [curated awesome-lists](https://github.com/sindresorhus/awesome)  
