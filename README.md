@@ -28,7 +28,7 @@
     * [selenium](https://github.com/SeleniumHQ/Selenium) - browser automation
     * [pyppeteer](https://github.com/miyakogi/pyppeteer) - browser automation
     * [collections](https://docs.python.org/3.6/library/collections.html)
-    * ['typing'](https://docs.python.org/3/library/typing.html)
+    * [`typing`](https://docs.python.org/3/library/typing.html)
     * [`typing.NamedTuple`](https://docs.python.org/3/library/typing.html#typing.NamedTuple) - cool declaration
     
 
