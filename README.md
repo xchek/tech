@@ -10,16 +10,27 @@
   * [Test your browser](https://panopticlick.eff.org/)
 
 ### Security/Pentesting
-  * [kismet](https://github.com/kismetwireless/kismet)
-  * [aircrack-ng](https://www.aircrack-ng.org/doku.php?id=newbie_guide)
-  * [driftnet](https://github.com/deiv/driftnet)
+  * [`kismet`](https://github.com/kismetwireless/kismet)
+  * [`aircrack-ng`](https://www.aircrack-ng.org/doku.php?id=newbie_guide)
+  * [`driftnet`](https://github.com/deiv/driftnet)
   * [Snort](https://snort.org/)
+  * [`ettercap`](https://github.com/Ettercap/ettercap)
+  * [`nmap`](https://github.com/nmap/nmap)
+  * [`john` (JohnTheRipper)](https://github.com/magnumripper/JohnTheRipper)
 
 ### Programming
   * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
   * [Python](https://docs.python.org/3.6/library/index.html)
-    * [pydash](https://github.com/dgilland/pydash)
-    * [Pycharm](https://www.jetbrains.com/pycharm/download/)
+    * [pydash](https://github.com/dgilland/pydash) - Python utility libraries 
+    * [Pycharm](https://www.jetbrains.com/pycharm/download/) - professional Python IDE
+    * [django](https://github.com/django/django) - web framework
+    * [textract](https://github.com/deanmalmgren/textract) - get text from files
+    * [selenium](https://github.com/SeleniumHQ/Selenium) - browser automation
+    * [pyppeteer](https://github.com/miyakogi/pyppeteer) - browser automation
+    * [collections](https://docs.python.org/3.6/library/collections.html)
+    * ['typing'](https://docs.python.org/3/library/typing.html)
+    * [`typing.NamedTuple`](https://docs.python.org/3/library/typing.html#typing.NamedTuple) - cool declaration
+    
 
 ### Data Management/Manipulation/Visualization
   * [diskover](https://github.com/shirosaidev/diskover)
