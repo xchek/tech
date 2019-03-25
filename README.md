@@ -20,11 +20,16 @@
   * [`nmap`](https://github.com/nmap/nmap)
   * [`john` (JohnTheRipper)](https://github.com/magnumripper/JohnTheRipper)
 
-### Programming Libraries/Application management
+### Programming concepts
   * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
+
+### App. Management
   * [`pyenv`](https://github.com/pyenv/pyenv) - python version management ([pyenv-installer](https://github.com/pyenv/pyenv-installer))
   * [`pipenv`](https://pipenv.readthedocs.io/en/latest/) - python package/version management
+  
+### Programming (Libraries)
   * [Python](https://docs.python.org/3.6/library/index.html)
+    * [requests](http://docs.python-requests.org/en/master/) 
     * [pydash](https://github.com/dgilland/pydash) - Python utility libraries 
     * [Pycharm](https://www.jetbrains.com/pycharm/download/) - professional Python IDE
     * [django](https://github.com/django/django) - web framework
@@ -35,8 +40,11 @@
     * [pyppeteer](https://github.com/miyakogi/pyppeteer) - browser automation
     * [collections](https://docs.python.org/3.6/library/collections.html)
     * [typing](https://docs.python.org/3/library/typing.html)
-    * [typing.NamedTuple](https://docs.python.org/3/library/typing.html#typing.NamedTuple) - cool declaration    
-
+    * [typing.NamedTuple](https://docs.python.org/3/library/typing.html#typing.NamedTuple) - cool declaration
+  * [C++](http://www.cplusplus.com/reference/) - std library reference
+  * [HTML](https://www.w3schools.com/tags/default.asp) - Element reference
+    * [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+  
 ### Data Management/Manipulation/Visualization
   * [diskover](https://github.com/shirosaidev/diskover)
   * [Elasticsearch](https://github.com/elastic/elasticsearch)
