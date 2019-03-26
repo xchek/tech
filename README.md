@@ -45,6 +45,11 @@
   * [C++](http://www.cplusplus.com/reference/) - std library reference
   * [HTML](https://www.w3schools.com/tags/default.asp) - Element reference
     * [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
+### Hardware
+  * [Teensy](https://www.pjrc.com/teensy/) - product page (with plugins/downloads)
+  * [Raspberry Pi](https://www.raspberrypi.org/downloads/) - operating system downloads
+  * [Arduino](https://www.arduino.cc/en/Main/Software) - arduino IDE
   
 ### Data Management/Manipulation/Visualization
   * [diskover](https://github.com/shirosaidev/diskover)
