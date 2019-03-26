@@ -12,6 +12,7 @@
   * [Test your browser](https://panopticlick.eff.org/)
 
 ### Security/Pentesting
+  * [Have I been pwned?](https://haveibeenpwned.com/)
   * [`kismet`](https://github.com/kismetwireless/kismet)
   * [`aircrack-ng`](https://www.aircrack-ng.org/doku.php?id=newbie_guide)
   * [`driftnet`](https://github.com/deiv/driftnet)
