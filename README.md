@@ -1,11 +1,11 @@
-<details><summary><b>Cheat-sheets</b></summary>
+<details open=""><summary><b>Cheat-sheets</b></summary>
 
   * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [tmux](https://man.openbsd.org/OpenBSD-current/man1/tmux.1) - terminal multiplexer man page
   * [vim](https://vim.rtorr.com/) - Vim cheat sheet
   
 </details>
-<details><summary><b>Browser Anti-Tracking</b></summary>
+<details open=""><summary><b>Browser Anti-Tracking</b></summary>
  
   * [HTTPS Everywhere](https://www.eff.org/https-everywhere)
   * [Privacy Badger](https://www.eff.org/privacybadger)
@@ -15,7 +15,7 @@
   * [Test your browser](https://panopticlick.eff.org/)
  
 </details>
-<details><summary><b>Security/Pentesting</b></summary>
+<details open=""><summary><b>Security/Pentesting</b></summary>
  
   * [Have I been pwned?](https://haveibeenpwned.com/)
   * [`kismet`](https://github.com/kismetwireless/kismet)
@@ -27,23 +27,23 @@
   * [`john` (JohnTheRipper)](https://github.com/magnumripper/JohnTheRipper)
  
 </details>
-<details><summary><b>Operating Systems</b></summary>
+<details open=""><summary><b>Operating Systems</b></summary>
  
   * [DistroWatch](https://distrowatch.com/)
  
 </details>
-<details><summary><b>Programming concepts</b></summary>
+<details open=""><summary><b>Programming concepts</b></summary>
  
   * [TheAlgorithms](https://github.com/TheAlgorithms/Python)
  
 </details>
-<details><summary><b>App. Management</b></summary>
+<details open=""><summary><b>App. Management</b></summary>
  
   * [`pyenv`](https://github.com/pyenv/pyenv) - python version management ([pyenv-installer](https://github.com/pyenv/pyenv-installer))
   * [`pipenv`](https://pipenv.readthedocs.io/en/latest/) - python package/version management
  
 </details>
-<details><summary><b>Programming (Libraries)</b></summary>
+<details open=""><summary><b>Programming (Libraries)</b></summary>
 
   * [Python](https://docs.python.org/3.6/library/index.html)
     * [requests](http://docs.python-requests.org/en/master/) 
@@ -63,25 +63,25 @@
     * [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
  
 </details>
-<details><summary><b>Hardware</b></summary>
+<details open=""><summary><b>Hardware</b></summary>
 
   * [Teensy](https://www.pjrc.com/teensy/) - product page (with plugins/downloads)
   * [Raspberry Pi](https://www.raspberrypi.org/downloads/) - operating system downloads
   * [Arduino](https://www.arduino.cc/en/Main/Software) - arduino IDE
 
 </details>
-<details><summary><b>Data Management/Manipulation/Visualization</b></summary>
+<details open=""><summary><b>Data Management/Manipulation/Visualization</b></summary>
  
   * [diskover](https://github.com/shirosaidev/diskover)
   * [Elasticsearch](https://github.com/elastic/elasticsearch)
  
 </details>
-<details><summary><b>Telemetry</b></summary>
+<details open=""><summary><b>Telemetry</b></summary>
  
   * [RTL-SDR](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/) - quick setup guide  
  
 </details>
-<details><summary><b>Drones</b></summary>
+<details open=""><summary><b>Drones</b></summary>
  
   * [betaflight](https://github.com/betaflight/betaflight)
   * [OpenTX](https://www.open-tx.org/) - Transmitter firmware
@@ -89,7 +89,7 @@
   * [BeeBrain lite](https://newbeedrone.com/products/beebrain-lite-flight-controller-set-frsky) - product page w/ firmware versions
  
 </details>
-<details><summary><b>Misc.</b></summary>
+<details open=""><summary><b>Misc.</b></summary>
  
   * [curated awesome-lists](https://github.com/sindresorhus/awesome)  
   * [all awesome-lists](https://github.com/topics/awesome-list)
