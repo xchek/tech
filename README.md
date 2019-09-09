@@ -1,3 +1,9 @@
+<details open=""><summary><b>Active Projects</b></summary>
+
+  * [Comedy Event Scrape](https://github.com/xchek/comedy_scrape) - Comedy Events Scraper, utilizing scraper_base
+  * [Scraper Base](https://github.com/xchek/scraper_base) - Scrape all the thingz!
+  
+</details>
 <details open=""><summary><b>Cheat-sheets</b></summary>
 
   * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
