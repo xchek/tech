@@ -1,4 +1,4 @@
-<details open=""><summary><b>My Active Projects</b></summary>
+<details><summary><b>My Active Projects</b></summary>
 
   * [Comedy Event Scrape](https://github.com/xchek/comedy_scrape) - Comedy Events Scraper, utilizing scraper_base
   * [Scraper Base](https://github.com/xchek/scraper_base) - Scrape all the thingz!
