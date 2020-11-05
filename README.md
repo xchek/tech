@@ -53,11 +53,13 @@
 <details open=""><summary><b>Programming (Libraries)</b></summary>
 
   * [Python](https://docs.python.org/3.6/library/index.html)
+    * [pandas](https://github.com/pandas-dev/pandas)
+    * [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/)
     * [requests](http://docs.python-requests.org/en/master/) 
+    * [fake-useragent](https://github.com/hellysmile/fake-useragent)
     * [pydash](https://github.com/dgilland/pydash) - Python utility libraries 
     * [Pycharm](https://www.jetbrains.com/pycharm/download/) - professional Python IDE
     * [django](https://github.com/django/django) - web framework
-    * [pandas](https://github.com/pandas-dev/pandas)
     * [numpy](https://github.com/numpy/numpy)
     * [textract](https://github.com/deanmalmgren/textract) - get text from files
     * [selenium](https://github.com/SeleniumHQ/Selenium) - browser automation
@@ -68,6 +70,16 @@
   * [C++](http://www.cplusplus.com/reference/) - std library reference
   * [HTML](https://www.w3schools.com/tags/default.asp) - Element reference
     * [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+ 
+</details>
+<details open=""><summary><b>Tools</b></summary>
+
+  * [httrack](http://www.httrack.com)
+  * [bcp](https://docs.microsoft.com/en-us/sql/tools/bcp-utility?view=sql-server-ver15)
+  * [scp](https://linux.die.net/man/1/scp)
+  * [ssh](https://linux.die.net/man/1/ssh)
+  * [curl](https://linux.die.net/man/1/curl)
+  * [wget](https://linux.die.net/man/1/wget)
  
 </details>
 <details open=""><summary><b>Hardware</b></summary>
