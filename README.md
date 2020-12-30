@@ -97,7 +97,8 @@
 </details>
 <details open=""><summary><b>Telemetry</b></summary>
  
-  * [RTL-SDR](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/) - quick setup guide  
+  * [RTL-SDR](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/) - quick setup guide
+  * [RfCat](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/) - "swiss-army knife of ISM band radio"
  
 </details>
 <details open=""><summary><b>Drones</b></summary>
